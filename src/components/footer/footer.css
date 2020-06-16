@@ -1,0 +1,21 @@
+.link {
+  color: yellow;
+    align-items: center;
+    margin-left:500px;
+  }
+
+
+
+  .footer {
+    background-color: #61210f;
+    background-image: linear-gradient(315deg, #61210f 0%, #ee6c4d 74%);
+    
+    margin-top: 30px;
+    
+ 
+    
+  }
+  .footer-copyright {
+  
+    margin-left: 500px;
+  }

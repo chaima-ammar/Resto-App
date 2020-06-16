@@ -1,0 +1,260 @@
+.users-item {
+  padding: 40px;
+  padding-bottom: 50px;
+  font-size: 2rem;
+margin-bottom: 0px;
+
+}
+
+
+  .cards{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    margin-top: 90px;
+
+
+   
+  }
+
+
+
+
+
+  .image{
+    height: 500px;
+    border-radius:200px;
+   
+  }
+  
+
+
+
+
+
+.users-item button,
+.add-user {
+  padding: 7px;
+  color: black;
+  font-size: 1.6rem;
+  border-radius: 7px;
+  background: green;
+  border: green;
+  cursor: pointer;
+}
+
+.flex{
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+ align-items: center;
+}
+.flex-bettwen{
+  display: flex;
+  justify-content: space-between;
+}
+
+.imageleft{
+  position:absolute;
+  top : 15px;
+  left: 30px;
+  width: 50px;
+ 
+}
+.centre-item{
+  margin-left: 250px;
+  position: absolute;
+  
+  margin-right:auto;
+  margin-top: 110px;
+
+
+}
+
+.item-menu{
+  
+  display: flex;
+  justify-content: space-around;
+ margin-left: 470px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  align-items: center;
+  
+
+  
+  }
+
+.card-body{
+  
+  text-align: center;
+}
+
+.nav-item{
+  
+
+font-size: 20px;
+font-family: 'Lobster', cursive;;
+font-weight: bolder;
+margin-top: -100px;
+
+
+}
+
+
+
+
+.logo{
+  border-radius: 90%;
+  font-weight: bold ;
+  text-shadow: 1px 1px 3px white;
+  margin-top: 8px;
+
+}
+
+
+
+
+.pading{
+  top : 25px;
+  right: 235px;
+  width: 200px;
+  color: skyblue;
+  position: absolute;
+}
+.Positionright{
+  float: right;
+  margin-right: 80px;
+}
+.positionleft{
+  float: left;
+  margin-left: 80px;
+}
+.Border-raduis{
+ border-radius: 10%;
+ background-color: red;
+ font-size: 16px;
+ width: 1000px;
+}
+
+
+.flexcart{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+ align-items: center;
+ margin-top: 50px;
+}
+.right{
+  position:absolute;
+  top : 150px;
+  right: 30px;
+}
+.contenaire {
+margin-top: 20px;
+max-width:1000px;
+margin-left: auto;
+margin-right: auto;
+}
+.margintop {
+  margin-top: 100px;
+ 
+}
+.centre {
+  display: flex;
+ align-items: center;
+ flex-direction: column;
+ height: 500px;
+ 
+}
+
+
+.border{
+  margin-left:350px;
+  margin-right: 450px;
+}
+
+
+
+.filed{
+
+  margin: 50px;
+  text-align: center;
+}
+
+
+
+
+
+.text{
+margin: 100px  350px  100px 350px;
+}
+
+.input-quantité{
+  width: 10px;
+}
+
+.image-card{
+  width:300px;
+}
+
+.button,.input-quantité{
+  
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+ align-items: center;
+ margin-top: 0px;
+}
+
+.ajouter-font{
+
+  background-color: green;
+}
+
+.card{
+ margin-right: 700px;
+
+  margin-bottom: 40px;
+
+}
+
+
+
+
+.image{
+  height: 500px;
+  border-radius:200px;
+ 
+}
+
+.title{
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  color: green;
+}
+
+.Navbar{
+
+  background-color:#230561;
+
+display: flex;
+justify-content: space-between;
+height: 100px;
+
+}
+
+.sign{
+  display: flex;
+margin-top: -100px;
+color:black;
+float:right;
+}
+
+
+.icon{
+
+color: black;
+}
+

@@ -1,0 +1,39 @@
+.containerSlide {
+    width: 100%;
+    margin: auto;
+    background-size: cover;
+
+    
+}
+  
+
+.image-carousel{
+  width: 100%;
+  
+    
+}
+   
+  
+
+
+
+
+each-slide > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+
+
+
+
+
+
+ .containerSlide img{
+   height:450px ;
+   background-repeat: no-repeat;
+   width: 100%;
+   
+ }

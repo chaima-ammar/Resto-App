@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "first_name": "Boss",
+      "last_name": "Boss",
+      "email": "ammarchaima.simplon@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "first_name": "chaima",
+      "last_name": "ammar",
+      "password": "2020",
+      "email": "chaima.ammar@gmail.com",
+      "id": 4
+    },
+    {
+      "first_name": "marwa",
+      "last_name": "azzabi",
+      "password": "123",
+      "email": "marwa@gmail.com",
+      "id": 5
+    }
+  ],
+  "plat": [
+    {
+      "name": "granolla",
+      "prix": "12",
+      "image": "https://i.pinimg.com/564x/01/74/fa/0174fa9b8c5f3cd0103e616d36ca7c0c.jpg",
+      "id": 1
+    },
+    {
+      "name": "th noodles} ",
+      "prix": "25",
+      "image": "https://i.pinimg.com/564x/e6/e0/24/e6e0246c8da3ed97b366424ea438629b.jpg",
+      "id": 2
+    },
+    {
+      "name": "KALE",
+      "prix": "25",
+      "image": "https://i.pinimg.com/564x/99/42/36/99423696cc0e18d8bd29d519435b358f.jpg",
+      "id": 3
+    },
+    {
+      "name": "KALE",
+      "prix": "25",
+      "image": "https://i.pinimg.com/564x/99/42/36/99423696cc0e18d8bd29d519435b358f.jpg",
+      "id": 5
+    },
+    {
+      "name": "The Vegan Buddha Bowl",
+      "prix": "12",
+      "image": "https://i.pinimg.com/564x/65/ac/70/65ac7000d9320d66ca86b6cbb856e77a.jpg",
+      "id": 6
+    }
+  ],
+  "ListeCarte": [
+    {
+      "name": "th noodles} ",
+      "image": "https://i.pinimg.com/564x/e6/e0/24/e6e0246c8da3ed97b366424ea438629b.jpg",
+      "prix": "25",
+      "quantiter": "3",
+      "id": 1
+    }
+  ]
+}
